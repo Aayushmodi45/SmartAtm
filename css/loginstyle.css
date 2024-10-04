@@ -1,0 +1,32 @@
+body{
+    background-color: darkcyan;
+}
+h1{
+    color: blue;
+}
+p{
+    color: red;
+}
+.title{
+    font-family: 'Times New Roman', Times, serif;
+    color: darkolivegreen;
+    font-size: 40px;
+    line-height: 45px;
+    font-size: italic;
+    text-align: center;
+    
+}
+
+.txtbx{
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    font-size: 25px;
+    line-height: 30px;
+}
+
+#btn{
+    background-color: green;
+    color: white;
+    font-size: 25px;
+    line-height: 30px;
+}
